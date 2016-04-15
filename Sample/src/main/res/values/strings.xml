@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Card Form Sample</string>
+    <string name="purchase">Purchase</string>
+    <string name="add">Add</string>
+    <string name="valid">Form is valid</string>
+    <string name="invalid">Form is invalid</string>
+    <string name="holo_theme_form">Holo Theme</string>
+    <string name="material_light_theme_form">Material Light Theme</string>
+    <string name="material_dark_theme_form">Material Dark Theme</string>
+</resources>

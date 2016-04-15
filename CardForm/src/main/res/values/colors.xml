@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bt_black">#001129</color>
+    <color name="bt_blue">#009BDE</color>
+    <color name="bt_light_gray">#6d6d6d</color>
+    <color name="bt_red">#DD5555</color>
+</resources>
