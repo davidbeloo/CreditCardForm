@@ -21,7 +21,7 @@ In your module `build.gradle`:
 
 ```groovy
 dependencies {
-    compile 'com.braintreepayments:card-form:2.1.1'
+    compile 'com.github.davidbeloo:creditcardform:1.0.0'
 }
 ```
 
