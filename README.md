@@ -1,7 +1,7 @@
 # Credit Card Form
 CreditCardForm is a ready made card form layout that can be included in your app making it easy to
 accept credit and debit cards. 
-This git forks Card Form by braintree and added support for Israeli credits cards by ISRACARD (8-9 digits)
+This git forks Card Form by braintree and added support for Israeli credits cards by ISRACARD company (8-9 digits)
 
 
 ## Adding It To Your Project
@@ -68,7 +68,7 @@ Additionally `CardForm` has 3 available listeners:
 All card form inputs use the `colorAccent` theme attribute, when present, to set their focused color.
 For more information on the `colorAccent` attribute, see [Using the Material Theme](https://developer.android.com/training/material/theme.html).
 
-The included [sample app](https://github.com/braintree/android-card-form/tree/master/Sample) has examples of a Holo theme, Material light theme and Material dark theme.
+The Git included Sample app for examples of a Holo theme, Material light theme and Material dark theme.
 
 ## [Releases](https://github.com/davidbeloo/CreditCardForm/releases)
 
