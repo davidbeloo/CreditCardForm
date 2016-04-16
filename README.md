@@ -1,7 +1,7 @@
 # Credit Card Form
 CreditCardForm is a ready made card form layout that can be included in your app making it easy to
 accept credit and debit cards. 
-This git forks Card Form by braintree and added support for Israeli credits cards by ISRACARD company (8-9 digits)
+This git forks Card Form by braintree and added support for ISRACARD Israeli credit card company (8-9 digits)
 
 
 ## Adding It To Your Project
