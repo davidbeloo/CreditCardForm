@@ -70,7 +70,7 @@ For more information on the `colorAccent` attribute, see [Using the Material The
 
 The included [sample app](https://github.com/braintree/android-card-form/tree/master/Sample) has examples of a Holo theme, Material light theme and Material dark theme.
 
-## [Releases](https://github.com/braintree/android-card-form/releases)
+## [Releases](https://github.com/davidbeloo/CreditCardForm/releases)
 
 ## License
 
