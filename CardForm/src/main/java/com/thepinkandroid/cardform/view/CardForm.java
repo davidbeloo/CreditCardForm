@@ -23,11 +23,8 @@ import com.thepinkandroid.cardform.OnCardFormFieldFocusedListener;
 import com.thepinkandroid.cardform.OnCardFormSubmitListener;
 import com.thepinkandroid.cardform.OnCardFormValidListener;
 import com.thepinkandroid.cardform.R;
-import com.thepinkandroid.cardform.view.CardEditText.OnCardTypeChangedListener;
 import com.thepinkandroid.cardform.utils.CardType;
-
-import static android.os.Build.VERSION.SDK_INT;
-import static android.os.Build.VERSION_CODES.ICE_CREAM_SANDWICH;
+import com.thepinkandroid.cardform.view.CardEditText.OnCardTypeChangedListener;
 
 public class CardForm extends LinearLayout implements
         OnCardTypeChangedListener, OnFocusChangeListener, OnClickListener, OnEditorActionListener,
@@ -108,10 +105,10 @@ public class CardForm extends LinearLayout implements
      */
     public void setRequiredFields(Activity activity, boolean cardNumberRequired, boolean expirationRequired,
                                   boolean cvvRequired, boolean postalCodeRequired, String imeActionLabel) {
-        if (SDK_INT >= ICE_CREAM_SANDWICH) {
-            activity.getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE,
-                    WindowManager.LayoutParams.FLAG_SECURE);
-        }
+//        if (SDK_INT >= ICE_CREAM_SANDWICH) {
+//            activity.getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE,
+//                    WindowManager.LayoutParams.FLAG_SECURE);
+//        }
 
         mCardNumberRequired = cardNumberRequired;
         mExpirationRequired = expirationRequired;
