@@ -32,7 +32,7 @@ dependencies {
 Card Form is a LinearLayout that you can add to your layout:
 
 ```xml
-<com.braintreepayments.cardform.view.CardForm
+<com.thepinkandroid.cardform.view.CardForm
     android:id="@+id/bt_card_form"
     android:layout_width="match_parent"
     android:layout_height="match_parent" />
